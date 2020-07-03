@@ -1,5 +1,5 @@
 # Ballistique
-## This is a 2D python project which simulates elastical collision depending on collision angle and speed
+## This is a 2D python project which simulates elastic collision depending on collision angle and speed
 
 ### Features : 
     - Angle setting
